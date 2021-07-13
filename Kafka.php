@@ -1,7 +1,7 @@
 <?php
 
 
-class Kafka{
+class KafkaProducer{
 
     private $server;
     private $conf;
